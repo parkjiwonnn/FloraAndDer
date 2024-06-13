@@ -37,8 +37,8 @@
 <br>
 <br>
 
-## 프로젝트 도메인<br>
-🔗 http://kdt-sw-8-team05.elicecoding.com
+## 프로젝트 시연영상<br>
+🔗 https://drive.google.com/file/d/1FXKhtI3oLeARVuvMnSz425wxjjnmNWP8/view
 
 <br>
 <br>
